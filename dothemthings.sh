@@ -37,7 +37,4 @@ cat data.txt
 
 sleep 2
 
-python app.py
-python app.py
-python app.py
-python app.py
+python3 app.py
